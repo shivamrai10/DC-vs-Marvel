@@ -1,2 +1,2 @@
 # DC-vs-Marvel
-Exploratory Analysis of Dataset of characters in DC and Marvel Universe.
+Exploratory Data Analysis of characters in DC and Marvel Universe.
